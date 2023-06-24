@@ -1,2 +1,2 @@
-# Sistema_de_catalogacion_e_inventario
+# Sistema
 Tesis:Caso real: SEP-AEFCM | Educación
