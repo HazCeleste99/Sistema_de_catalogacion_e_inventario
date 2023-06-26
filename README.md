@@ -1,2 +1,2 @@
 # Sistema:
-Tesis:Caso real: SEP-AEFCM | Educación
+Tesis:Caso real: en la empresa SEP-AEFCM | Educación , con tecnologias Node js Express, Bootstrap 5, mongoDB SQL
