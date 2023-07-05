@@ -1,2 +1,5 @@
 # Sistema Gestor De Procesos :
-Tesis:Caso real: en la empresa SEP-AEFCM | Educación , con tecnologias Node js Express, Bootstrap 5, MySQL.
+Tesis:Caso real: en la empresa SEP-AEFCM | Educación , tecnologias propuesta por la empresa Node js Express, Bootstrap 5, MySQL.
+
+Documentación completa:
+
